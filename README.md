@@ -1,2 +1,2 @@
 # FPGA-Project
-There are some project from course of FIELD PROGRAMMABLE GATE ARRAY (FPGA) DESIGN and INTRODUCTION TO DIGITAL IC DESIGN
+There are some project from course of FIELD PROGRAMMABLE GATE ARRAY (FPGA) DESIGN
